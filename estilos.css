@@ -563,18 +563,18 @@ html {
             #portfolio .fila {
                 display: block;
             }
-            #portfolio .fila .proyecto {
+            #portfolio .fila .proyecto{
                 margin: 10px auto;
             }
             /* seccion CONTACTO */
             #contacto {
                 padding: 50px 15px;
             }
-            #contacto .contenedor-form .mitad {
+            #contacto .contenedor-form .mitad{
                 margin-bottom: 15px;
                 display: block;
             }
-            #contacto .contenedor-form .mitad input {
+            #contacto .contenedor-form .mitad input{
                 width: 100%;
                 margin-bottom: 15px;
             }
