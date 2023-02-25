@@ -493,6 +493,16 @@ html {
             margin: 5px;
             font-size: 26px;
         }
+        /*SECCION RESPONSIVE*/
+        @media screen and (max-width:800px){
+            .redes {
+                display: none;
+            }
+            nav {
+                display: none;
+            }
+        }
+        
 
     
 
