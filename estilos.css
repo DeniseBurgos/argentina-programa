@@ -13,7 +13,7 @@ html {
 #inicio {
     /*background: linear-gradient(rgba (0,0,0,.7),rgba (0,0,0,.7)), url(/img/fondocompurosita.jpg);*/
     /*El codigo escrito abajo se me aplico, y el de arriba no-VERRKEONDA*/
-    background-image: url(/img/camaraobjetosrosita.jpg);
+    background-image: url(/argentina-programa/img/camaraobjetosrosita.jpg);
     background-size:cover;
     background-position: center center;
     height: 100vh;
